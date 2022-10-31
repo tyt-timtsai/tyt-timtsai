@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tyt-timtsai/tyt-timtsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there👋, I'm Tim</h1>
+<h3 align="center">A passionate web backend developer from Taiwan</h3>
+
+- 🔭 I’m currently working in AppWorks School as a Back-end Engineer
+
+- 🌱 I’m currently developing a live stream website for learning programming : [WolfON](https://www.wolfon.live)
+
+- 🤝 I'm looking for a new job opportunity
+
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/tyt-timtsai/) | [Medium](https://medium.com/@Tim_Tsai)
